@@ -4,7 +4,7 @@ english_readme = """
 # 📄 Project: Inv Doctor
 
 ## 🧠 Project Description  
-**Inv Doctor** is a lightweight inventory management web application. It enables users to view, track, and manage product quantities with intuitive controls. Designed as an MVP, it demonstrates core inventory functionalities with a focus on user experience and accessibility.
+**InVitro Doctor** is a lightweight inventory management web application. It enables users to view, track, and manage product quantities with intuitive controls. Designed as an MVP, it demonstrates core inventory functionalities with a focus on user experience and accessibility.
 
 ---
 
